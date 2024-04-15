@@ -1,0 +1,6 @@
+python for data science
+unit 1
+
+http://imlab.postech.ac.kr/dkim/class/csed514_2019s/DeepLearningBook.pdf
+
+https://www.uno.edu/office-academic-programs/outcomes
