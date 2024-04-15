@@ -7,7 +7,7 @@ from tensorflow.keras.models import load_model
 from joblib import dump, load
 
 
-with open('C:/Users/Pournima/My_Work/patent/randomforestmodelasd.joblib', 'rb') as f:
+with open('./randomforestmodelasd.joblib', 'rb') as f:
     model = load(f)
 
 
